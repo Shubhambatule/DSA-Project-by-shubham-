@@ -6,7 +6,7 @@ Doubly Linked List.
 
 ## 📂 Project Contents
 
-- [Code](01_Code/main.cpp/)
+- [Code](UNIT_03/code.cpp/)
 - [Problem Statement](02_Problem_Statement/problem-statement.md/)
 - [Objectives](03_Objectives/objectives.md/)
 - [Algorithm](04_Algorithm/algorithm.md/)
