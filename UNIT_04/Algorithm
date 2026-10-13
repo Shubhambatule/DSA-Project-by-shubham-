@@ -1,0 +1,8 @@
+1.  Start the program. 
+2.  Create an inorder-threaded binary search tree with nodes and thread pointers. 
+3.  Accept the value of the node whose inorder successor is to be found. 
+4.  Search for the specified node in the tree. 
+5.  If the right pointer is a thread, the pointed node is the inorder successor. 
+6.  Otherwise, move to the right child and traverse left until a left thread is encountered. 
+7.  Display the inorder successor. If no successor exists, display an appropriate message. 
+8.  Stop the program.
