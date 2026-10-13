@@ -1,0 +1,3 @@
+To implement an inorder-threaded binary search tree and find the 
+inorder successor of a given node using thread pointers 
+without using recursion or a stack.
