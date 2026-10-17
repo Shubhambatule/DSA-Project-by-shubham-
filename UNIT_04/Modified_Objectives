@@ -1,0 +1,9 @@
+ Objective 
+
+• Build an inorder-threaded BST from user input, where null links are replaced by threads to 
+  the inorder successor/predecessor. 
+• Accept several nodes from the user in one run and find the successor of each one using the threads, 
+  with no recursion or stack. 
+• Identify how each successor is reached: via a right thread, or via a child link (the leftmost node 
+  of the right subtree). 
+• Handle the edge cases: the last node has no successor, and a value that is not in the tree is reported as not found.
