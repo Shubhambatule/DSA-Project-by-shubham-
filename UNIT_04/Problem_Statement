@@ -1,2 +1,2 @@
-Write a C++ program to identify the inorder successor of a specified node in
+Implement a C++ program to identify the inorder successor of a specified node in
 an inorder-threaded binary search tree using thread information.
