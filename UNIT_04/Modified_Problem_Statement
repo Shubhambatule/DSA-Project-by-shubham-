@@ -1,0 +1,8 @@
+
+Write a C++ program to find the inorder successors of multiple user-selected nodes 
+in an inorder-threaded binary search tree, using thread information. For each selected 
+node, the program should: 
+
+1. report the inorder successor, or report that the node has no inorder successor (it is the last node in inorder), 
+2. display whether the successor was reached through a thread or a child link, 
+3. report when a selected node is not present in the tree.
