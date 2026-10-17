@@ -38,8 +38,11 @@ recursion or a stack.
 - [Algorithm](UNIT_04/Algorithm/)
 - [Flowchart](UNIT_04/Flowchart_04.png/)
 - [Output](UNIT_04/Output_04.png/)
-
-
+- [Modified Problem Statement](UNIT_04/Modified_Problem_Statement/)
+- [Modified Objective](UNIT_04/Modified_Objectives/)
+- [Modified Algorithm](UNIT_04/Modified_Algorithm/)
+- [Modified Code](UNIT_04/Modified.cpp/)
+- [Modified Flowchart](UNIT_04/Modified_Flowchart.png/)
 
 ## 🛠 Technologies Used
 
