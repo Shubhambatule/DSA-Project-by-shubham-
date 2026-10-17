@@ -1,0 +1,19 @@
+. Algorithm 
+
+1. Start with an empty tree. Every new node has lthread = rthread = true. 
+2. Read n and the n values. Insert each value by BST rules. A new node inherits its parent's 
+   old thread, and the parent's link becomes a real child link. Duplicates are rejected. 
+3. Display the inorder traversal by starting at the leftmost node and repeatedly taking the successor. 
+4. Read q, the number of nodes to query, then read the q node values. 
+5. For each query value x:
+   – Search for x in the tree.
+   – If x is not found, print NOT FOUND and go to the next query.
+   – If rthread of x is true, the successor is its right link. Mark the link type as THREAD.
+   – Otherwise, move to the right child and keep going left until lthread is true.  
+   - That node is the successor. Mark the link type as CHILD LINK.
+   – If the successor is NULL, print NO inorder successor.
+   – Otherwise, print the successor and the link type. 
+6.  After all queries are processed, free the tree and stop. Complexity: each successor query takes O(h) 
+    time, where h is the height of the tree, and needs no extra stack space.
+
+Complexity: each successor query takes O(h) time, where h is the height of the tree, and needs no extra stack space.
