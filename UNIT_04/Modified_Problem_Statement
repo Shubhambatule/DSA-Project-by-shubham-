@@ -1,5 +1,5 @@
 
-Write a C++ program to find the inorder successors of multiple user-selected nodes 
+Implement a C++ program to find the inorder successors of multiple user-selected nodes 
 in an inorder-threaded binary search tree, using thread information. For each selected 
 node, the program should: 
 
